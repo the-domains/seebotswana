@@ -1,6 +1,6 @@
 name: SeeBotswana
 favicon: null
-layout_spectrum: 0.6585654367227107
+layout_spectrum: 0.24804
 typography_spectrum: 0.7491164498496801
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7244533763732761
+    - '#abafba'
+    - '#fbf2e1'
+    - '#211c18'
+    - '#736655'
+    - '#fee067'
+  brandStrength: 0.75
   lightness: 0.8868487735744566
   saturation: 0.939294496551156
   rhythmicContrast: 0.5575443611014634
