@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We Help Tourism Operators Inspire People to Visit & Explore Botswana'
-datePublished: '2016-04-05T04:14:20.782Z'
-dateModified: '2016-04-05T04:13:53.919Z'
+datePublished: '2016-04-05T04:45:45.524Z'
+dateModified: '2016-04-05T04:45:38.459Z'
 title: Ora Travel Group
 author: []
 sourcePath: _posts/2016-04-05-ora-travel-group.md
