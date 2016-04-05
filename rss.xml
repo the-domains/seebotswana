@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SeeBotswana]]></title>
+        <description><![CDATA[SeeBotswana]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 04:44:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us ]]></title>
+            <description><![CDATA[<article><h1>About us </h1><p>We curate journeys designed to give context, explain nuance and satisfy intellectual curiosity about various aspects of Botswana. We design packages that showcase Botswana's best attractions while revealing interesting social, cultural and historical insights. We design packages based on the following broad themes . These are based on continuous data driven research we perform and track of our target audiences mainly in North America and Europe :</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">f5cf9cdd-c192-4c8b-82d3-0224ac791eb1</guid>
+            <pubDate>Tue, 05 Apr 2016 04:43:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
