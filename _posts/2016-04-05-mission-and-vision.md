@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Our Mission is to help operators grow visitors by motivating and and inspiring visits to botswana .We provide visibility and promotion for different partners both public and private in the hospitality and tourism industry; this includes game lodges, hotels and restaurants, museums and game parks'
-datePublished: '2016-04-05T04:52:08.113Z'
-dateModified: '2016-04-05T04:52:07.687Z'
+datePublished: '2016-04-05T04:55:38.860Z'
+dateModified: '2016-04-05T04:52:53.247Z'
 title: 'Mission & Vision'
 author: []
+sourcePath: _posts/2016-04-05-mission-and-vision.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-mission-and-vision.md
-published: true
 url: mission-and-vision/index.html
-_type: Article
+_type: WebPage
 
 ---
 Our Mission is to help operators grow visitors by motivating and and inspiring visits to botswana .We provide visibility and promotion for different partners both public and private in the hospitality and tourism industry; this includes game lodges, hotels and restaurants, museums and game parks
