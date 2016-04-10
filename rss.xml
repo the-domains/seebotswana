@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SeeBotswana]]></title>
         <description><![CDATA[SeeBotswana]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seebotswana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 02:15:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 02:17:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seebotswana/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d4bfa31-5915-4aed-b0be-7e6ce66cf20b.png">]]></description>
-            <link>undefined09ceaef8-b1d0-4d39-b225-de20603d3747/index.html</link>
+            <link>https://thegrid.ai/seebotswana/09ceaef8-b1d0-4d39-b225-de20603d3747/index.html</link>
             <guid isPermaLink="false">09ceaef8-b1d0-4d39-b225-de20603d3747</guid>
-            <pubDate>Sun, 10 Apr 2016 02:15:12 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 02:17:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
